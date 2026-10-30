@@ -135,34 +135,34 @@ Add Windows 11/10/7, Windows Server and Android VMs on the same `NatNetwork` (10
 ## 📸 Evidence
 
 #### 1. VirtualBox host platform
-![VirtualBox version](screenshots/01-virtualbox-version.png)
+![VirtualBox version](01-virtualbox-version.png)
 
 #### 2. NAT Network — 10.0.0.0/24
-![NatNetwork 10.0.0.0/24](screenshots/02-natnetwork-10.0.0.0-24.png)
+![NatNetwork 10.0.0.0/24](02-natnetwork-10.0.0.0-24.png)
 
 #### 3. Kali Linux VM imported
-![Kali VM imported](screenshots/03-kali-vm-imported.png)
+![Kali VM imported](03-kali-vm-imported.png)
 
 #### 4. Shared clipboard & drag-and-drop
-![Clipboard and drag-and-drop bidirectional](screenshots/04-clipboard-dragdrop-bidirectional.png)
+![Clipboard and drag-and-drop bidirectional](04-clipboard-dragdrop-bidirectional.png)
 
 #### 5. Network adapter — attached to NatNetwork
-![Adapter on NatNetwork](screenshots/05-kali-adapter-natnetwork.png)
+![Adapter on NatNetwork](05-kali-adapter-natnetwork.png)
 
 #### 6. Shared folder → /downloads
-![Shared folder](screenshots/06-shared-folder-downloads.png)
+![Shared folder](06-shared-folder-downloads.png)
 
 #### 7. Kali desktop up and running
-![Kali desktop](screenshots/07-kali-desktop.png)
+![Kali desktop](07-kali-desktop.png)
 
 #### 8. Static IP 10.0.0.2 and Internet test
-![IP and ping](screenshots/08-kali-ip-10.0.0.2-internet.png)
+![IP and ping](08-kali-ip-10.0.0.2-internet.png)
 
 #### 9. Full lab verification
-![Lab verification](screenshots/09-lab-verification.png)
+![Lab verification](09-lab-verification.png)
 
 #### 10. Snapshot — WK1 Lab Ready
-![Snapshot](screenshots/10-snapshot-wk1-lab-ready.png)
+![Snapshot](10-snapshot-wk1-lab-ready.png)
 
 ---
 
